@@ -1,0 +1,16 @@
+E:\CSharp\CPShopee\CPShopee\bin\Debug\CPShopee.exe
+E:\CSharp\CPShopee\CPShopee\bin\Debug\CPShopee.pdb
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.csprojAssemblyReference.cache
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.FormCPShopeeMain.resources
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.Properties.Resources.resources
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.csproj.GenerateResource.cache
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.csproj.CoreCompileInputs.cache
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.exe
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.pdb
+E:\CSharp\CPShopee\CPShopee\bin\Debug\CPShopee.exe.config
+E:\CSharp\CPShopee\CPShopee\bin\Debug\WebDriver.dll
+E:\CSharp\CPShopee\CPShopee\bin\Debug\WebDriver.xml
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.csproj.CopyComplete
+E:\CSharp\CPShopee\CPShopee\obj\Debug\CPShopee.FormShopUrl.resources
+E:\CSharp\CPShopee\CPShopee\bin\Debug\Newtonsoft.Json.dll
+E:\CSharp\CPShopee\CPShopee\bin\Debug\Newtonsoft.Json.xml
